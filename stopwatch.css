@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+}
+.first h1{
+    margin: 10px;
+    color: rgb(116, 146, 175)
+}
+button{
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px 20px;
+    cursor: pointer;
+    background-color: rgb(116, 146, 175)
+    
+}
+.first{
+    text-align: center;
+    padding: 40px;
+
+}
+#timer{
+    font-size: 10rem;
+}
+
